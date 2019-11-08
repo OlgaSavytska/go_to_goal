@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/go_to_goal/static/css/main.150f9daa.chunk.css",
+    "main.js": "/go_to_goal/static/js/main.53be1395.chunk.js",
+    "main.js.map": "/go_to_goal/static/js/main.53be1395.chunk.js.map",
+    "runtime~main.js": "/go_to_goal/static/js/runtime~main.e05fd584.js",
+    "runtime~main.js.map": "/go_to_goal/static/js/runtime~main.e05fd584.js.map",
+    "static/css/2.4b3442db.chunk.css": "/go_to_goal/static/css/2.4b3442db.chunk.css",
+    "static/js/2.fd7b23ba.chunk.js": "/go_to_goal/static/js/2.fd7b23ba.chunk.js",
+    "static/js/2.fd7b23ba.chunk.js.map": "/go_to_goal/static/js/2.fd7b23ba.chunk.js.map",
+    "index.html": "/go_to_goal/index.html",
+    "precache-manifest.d02e3ad520402d7f82eb57808e9e0efa.js": "/go_to_goal/precache-manifest.d02e3ad520402d7f82eb57808e9e0efa.js",
+    "service-worker.js": "/go_to_goal/service-worker.js",
+    "static/css/2.4b3442db.chunk.css.map": "/go_to_goal/static/css/2.4b3442db.chunk.css.map",
+    "static/css/main.150f9daa.chunk.css.map": "/go_to_goal/static/css/main.150f9daa.chunk.css.map",
+    "static/media/ModalCongrats.module.css": "/go_to_goal/static/media/FlagsIcon.1c2a13f9.png",
+    "static/media/add-plus-button.718c9449.svg": "/go_to_goal/static/media/add-plus-button.718c9449.svg",
+    "static/media/arrow-down.dbe6fb24.svg": "/go_to_goal/static/media/arrow-down.dbe6fb24.svg",
+    "static/media/NewGoal.module.css": "/go_to_goal/static/media/decor.1b058b20.png",
+    "static/media/close.7d4fa344.svg": "/go_to_goal/static/media/close.7d4fa344.svg",
+    "static/media/closeEye.50bda4bb.svg": "/go_to_goal/static/media/closeEye.50bda4bb.svg",
+    "static/media/gift.862fe63f.svg": "/go_to_goal/static/media/gift.862fe63f.svg",
+    "static/media/main.css": "/go_to_goal/static/media/montserrat-v14-latin-ext_cyrillic-ext_latin_cyrillic-regular.faf441c8.eot",
+    "static/media/login-page-cover@1X.png": "/go_to_goal/static/media/login-page-cover@1X.4b76132f.png",
+    "static/media/logout.eac11c35.svg": "/go_to_goal/static/media/logout.eac11c35.svg",
+    "static/media/openEye.b0568867.svg": "/go_to_goal/static/media/openEye.b0568867.svg",
+    "static/media/party.e1e25daf.svg": "/go_to_goal/static/media/party.e1e25daf.svg",
+    "static/media/up-arrow.4f757167.svg": "/go_to_goal/static/media/up-arrow.4f757167.svg"
+  }
+}
